@@ -32,7 +32,7 @@ With a solid foundation in IT and a focus on the Linux-DevOps space, I bring a d
 - Infrastructure: Terraform, Ansible
 - Cloud Platforms: AWS, GCP
 - Load Balancers: NGINX, HAPROXY
-- Monitoring&Logging: Prometheus, alertmanager, grafana, loki, elk
+- Monitoring&Logging: Prometheus, Alertmanager, Grafana, Loki, ELK stack
 - Storage: Longhorn, Ceph, Topolvm
 
 ## 📂 All Repositories
