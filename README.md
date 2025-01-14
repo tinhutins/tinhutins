@@ -18,7 +18,7 @@ With a solid foundation in IT and a focus on the Linux-DevOps space, I bring a d
 
 ### CI/CD and GitOps
 - **[argocd-vote-deploy](https://github.com/tinhutins/argocd-vote-deploy):** ArgoCD manifests for deploying the Example Voting App into Kubernetes clusters.
-- **[voting-app-lfs-261](https://github.com/tinhutins/voting-app-lfs-261):** Complete CI/CD for the Example Voting App using GitHub Actions, with Terraform and Ansible for cloud deployment.
+- **[voting-app-lfs-261](https://github.com/tinhutins/voting-app-lfs261):** Complete CI/CD for the Example Voting App using GitHub Actions, with Terraform and Ansible for cloud deployment.
 - **[ci-cd-without-jenkins](https://github.com/tinhutins/ci-cd-without-jenkins):** Build a Python demo app, push it to DockerHub, and deploy it to Kubernetes using GitHub Actions and Kustomize.
 - **[argo-k8s-python](https://github.com/tinhutins/argo-k8s-python):** ArgoCD manifests for deploying a Python demo app.
 
