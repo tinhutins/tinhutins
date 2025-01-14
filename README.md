@@ -43,5 +43,5 @@ Feel free to explore more in the [Repositories](https://github.com/tinhutins?tab
 ## 🚀 Let's Connect!
 I'm always excited to collaborate, learn, and innovate. If you're working on a project in the DevOps, Kubernetes, or cloud domain, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tino-your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tino-hutinski/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/tinhutins)
