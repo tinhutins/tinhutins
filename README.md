@@ -1,12 +1,25 @@
 ## Hi there! 👋
 
 I'm **Tino**, an experienced IT professional passionate about **Linux**, **DevOps**, and **cloud technologies**.  
-With a solid foundation in IT and a focus on the Linux-DevOps space, I bring a diverse skill set to tackle complex IT challenges effectively. My journey spans multiple roles, each contributing to my expertise in:
+With a solid IT background and a focus on the Linux-DevOps space, I bring a diverse skill set and hands-on approach to solving complex challenges. \
+My main interests and skills include:
 
-- Cloud-native solutions
-- Kubernetes and container orchestration
-- CI/CD pipelines
 - Infrastructure automation
+- Cloud-native solutions
+- Kubernetes & container orchestration
+- CI/CD pipelines
+
+---
+
+## 🛠 Tech Stack
+- Cloud & Infra: AWS, GCP, Linux, Terraform, Ansible
+- Containers: Kubernetes (EKS, RKE, K3s), AWS ECS, Docker Swarm
+- CI/CD & GitOps: GitLab CI/CD, ArgoCD, GitHub Actions, Helm, Kustomize
+- Load Balancing: NGINX, HAProxy
+- Databases: PostgreSQL, MongoDB, Percona XtraDB Cluster
+- Scripting: Bash, Python
+- Monitoring & Logging: Prometheus, Grafana, Alertmanager, ELK Stack, Loki
+- Storage: Longhorn, Ceph, TopoLVM
 
 ---
 
@@ -26,14 +39,7 @@ With a solid foundation in IT and a focus on the Linux-DevOps space, I bring a d
 - **[k3s](https://github.com/tinhutins/k3s):** Automate local K3s Kubernetes cluster deployment, including NGINX setup, monitoring, and load testing.
 - **[docker-swarm-config](https://github.com/tinhutins/docker-swarm-config):** Deploy Docker Swarm clusters with NGINX or HAProxy as a load balancer.
 
-## 🛠 Tech Stack
-- Container Orchestration: Kubernetes, Docker Swarm, K3s
-- CI/CD: ArgoCD, Github Actions, Gitlab CI/CD, Helm, Kustomize
-- Infrastructure: Terraform, Ansible
-- Cloud Platforms: AWS, GCP
-- Load Balancers: NGINX, HAPROXY
-- Monitoring&Logging: Prometheus, Alertmanager, Grafana, Loki, ELK stack
-- Storage: Longhorn, Ceph, Topolvm
+---
 
 ## 📂 All Repositories
 Feel free to explore more in the [Repositories](https://github.com/tinhutins?tab=repositories) section!
